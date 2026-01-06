@@ -1,2 +1,0 @@
-# iptv
-IPTV Playlist
