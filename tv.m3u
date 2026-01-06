@@ -62,9 +62,6 @@ https://str2.yodacdn.net/tmbaz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Qafqaz TV
 https://str1.yodacdn.net/qafkaz/playlist.m3u8
 
-#EXTINF:-1 group-title="Azerbaycan",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
-
 #EXTINF:-1 group-title="Azerbaycan",EL TV
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 
