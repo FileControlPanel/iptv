@@ -6,6 +6,7 @@
 #----------------- Azerbaycan -----------------
 
 #EXTINF:-1 ,AzTV
+#EXTGRP:https://t.me/peyk_tv 
 http://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:0 group-title="Azerbaycan",Ictimai
