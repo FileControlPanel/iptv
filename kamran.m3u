@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTM3U url-tvg=""
+
+#----------------- Filimlər -----------------
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/81/ShawshankRedemptionMoviePoster.jpg",The Shawshank Redemption 1994
+https://dc02.dzeninfra.com/2392/index.m3u8
+
+#EXTINF:-1 group-title="Filimlər" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/The_Dark_Knight_%282008_film%29.jpg",The Dark Knight 2008
+https://vidrame.pro/vr/get/626b53b2/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/The_Wolf_of_Wall_Street_%282013%29.png",The Wolf of Wall Street 2013
+https://vidmody.com/mm/tt0993846/main/index-v1-a1.gif
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/The_Imitation_Game_%282014%29.png",The Imitation Game 2014
+https://dc07.dzeninfra.com/31197/index.m3u8
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg",The Departed 2006
+https://vidrame.pro/vr/get/1c243c6d/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg",The Prestige 2006
+https://vidrame.pro/vr/get/71efdcb8/1080.txt
+
+#EXTINF:-1 group-title="Filimlər"tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",Inception 2010
+https://vidmody.com/mm/tt1375666/main/index-v1-a1.gif
+
+
 #----------------- Azerbaycan -----------------
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Az%C9%99rbaycan_Televiziya_logo_%282%29.png" group-title="Azerbaycan",AzTV
@@ -74,3 +99,152 @@ http://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Kanal35.az" tvg-logo="https://upload.wikimedia.org/wikipedia/az/b/b6/Kanal_35_%28loqo%29.png" group-title="Azerbaycan",Kanal 35
 http://str.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
 
+
+#----------------- Türk -----------------
+
+#EXTINF:-1 tvg-id="TRT1.tr" group-title="Türk",TRT 1
+http://95.174.71.114/TR-TRT1/index.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" group-title="Türk",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" group-title="Türk",TRT Belgesel
+https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" group-title="Türk",TRT Cocuk
+http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" group-title="Türk",ATV
+http://65.108.239.207/atv/index.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr" group-title="Türk",STAR TV
+http://66.160.192.241/startvturk/index.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" group-title="Türk",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+
+#EXTINF:-1 tvg-id="ShowTV.tr" group-title="Türk",SHOW TV
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" group-title="Türk",DMAX
+http://116.202.238.88:80/DMAX_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr" group-title="Türk",TV8
+http://95.174.71.114:80/TR-TV8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NowTV.tr" group-title="Türk",NOW TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr" group-title="Türk",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr" group-title="Türk",TV 8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+
+#EXTINF:-1 tvg-id="BeyazTV.tr" group-title="Türk",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-id="Teve2.tr" group-title="Türk",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="A2TV.tr" group-title="Türk",A2 TV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="ShowMax.tr" group-title="Türk",SHOW MAX
+http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
+
+#EXTINF:-1 tvg-id="360TV.tr" group-title="Türk",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" group-title="Türk",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+
+#----------------- Rus Kanalları -----------------
+
+#EXTINF:-1 group-title="Rus",Perviy Kanal
+http://194.8.128.38:8080/ort/playlist.m3u8
+
+#EXTINF:-1 group-title="Rus",Rossiya 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+
+#EXTINF:-1 group-title="Rus",HTB
+http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/213/index.m3u8
+
+#EXTINF:-1 group-title="Rus",TVC
+http://2.57.217.85:8000/play/a09d/index.m3u8
+
+#EXTINF:-1 group-title="Rus",TV-3
+http://185.46.16.239:8000/TV3
+
+#EXTINF:-1 group-title="Rus",REN TV
+http://185.46.16.239:8000/REN_TV
+
+#EXTINF:-1 group-title="Rus",5 Kanal
+http://95.66.188.74/5kanal/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Mir TV
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 group-title="Rus",Mir 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rus",Pobeda TV
+http://178.212.71.253:8000/play/129/index.m3u8
+
+#EXTINF:-1 group-title="Rus",THT
+http://178.212.71.253:8000/play/19/index.m3u8
+
+#EXTINF:-1 group-title="Rus",THT4
+http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/104/index.m3u8
+
+#EXTINF:-1 group-title="Rus",THT Music
+http://178.212.71.253:8000/play/137/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 group-title="Rus",CTC
+http://95.66.188.74/CTC_HD/mono.m3u8
+
+#EXTINF:-1 group-title="Rus",CTC Love
+http://178.212.71.253:8000/play/104/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Domashniy
+http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/514/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Che
+http://95.66.188.74/Che/mono.m3u8
+
+#EXTINF:-1 group-title="Rus",Perets
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+
+#EXTINF:-1 group-title="Rus",Pyatnicha!
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 group-title="Rus",RBK
+http://e8-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+
+#EXTINF:-1 group-title="Rus",RTG
+http://178.212.71.253:8000/play/71/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Muz TV
+http://45.11.139.43:8555/muz/index.m3u8
+
+#EXTINF:-1 group-title="Rus",MATCH TV
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rus",MATCH! Futbol 1
+http://da5f9f38.ottolok.net/iptv/GW6SWKUSMGYCU7SS8KC6YUZM/124/index.m3u8
+
+#EXTINF:-1 group-title="Rus",MATCH! Futbol 2
+http://da5f9f38.ottolok.net/iptv/GW6SWKUSMGYCU7SS8KC6YUZM/530/index.m3u8
+
+#EXTINF:-1 group-title="Rus",MATCH! Futbol 3
+http://da5f9f38.ottolok.net/iptv/GW6SWKUSMGYCU7SS8KC6YUZM/522/index.m3u8
+
+#EXTINF:-1 group-title="Rus",Futbol TV
+http://31.148.48.15/Futbol_HD/index.m3u8
+
+#EXTINF:-1 group-title="Rus",2TV Sport
+http://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
